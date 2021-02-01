@@ -1,0 +1,1668 @@
+numStates 441
+
+numActions 4
+
+start 152
+
+end 402
+
+transition 22 0 22 0 1
+
+transition 22 1 43 0 1
+
+transition 22 2 22 0 1
+
+transition 22 3 22 0 1
+
+transition 43 0 43 0 1
+
+transition 43 1 64 0 1
+
+transition 43 2 43 0 1
+
+transition 43 3 22 0 1
+
+transition 64 0 65 0 1
+
+transition 64 1 85 0 1
+
+transition 64 2 64 0 1
+
+transition 64 3 43 0 1
+
+transition 85 0 85 0 1
+
+transition 85 1 106 0 1
+
+transition 85 2 85 0 1
+
+transition 85 3 64 0 1
+
+transition 106 0 106 0 1
+
+transition 106 1 127 0 1
+
+transition 106 2 106 0 1
+
+transition 106 3 85 0 1
+
+transition 127 0 127 0 1
+
+transition 127 1 148 0 1
+
+transition 127 2 127 0 1
+
+transition 127 3 106 0 1
+
+transition 148 0 149 0 1
+
+transition 148 1 169 0 1
+
+transition 148 2 148 0 1
+
+transition 148 3 127 0 1
+
+transition 169 0 169 0 1
+
+transition 169 1 190 0 1
+
+transition 169 2 169 0 1
+
+transition 169 3 148 0 1
+
+transition 190 0 190 0 1
+
+transition 190 1 211 0 1
+
+transition 190 2 190 0 1
+
+transition 190 3 169 0 1
+
+transition 211 0 211 0 1
+
+transition 211 1 232 0 1
+
+transition 211 2 211 0 1
+
+transition 211 3 190 0 1
+
+transition 232 0 232 0 1
+
+transition 232 1 253 0 1
+
+transition 232 2 232 0 1
+
+transition 232 3 211 0 1
+
+transition 253 0 253 0 1
+
+transition 253 1 274 0 1
+
+transition 253 2 253 0 1
+
+transition 253 3 232 0 1
+
+transition 274 0 275 0 1
+
+transition 274 1 274 0 1
+
+transition 274 2 274 0 1
+
+transition 274 3 253 0 1
+
+transition 316 0 317 0 1
+
+transition 316 1 337 0 1
+
+transition 316 2 316 0 1
+
+transition 316 3 316 0 1
+
+transition 337 0 337 0 1
+
+transition 337 1 358 0 1
+
+transition 337 2 337 0 1
+
+transition 337 3 316 0 1
+
+transition 358 0 359 0 1
+
+transition 358 1 358 0 1
+
+transition 358 2 358 0 1
+
+transition 358 3 337 0 1
+
+transition 400 0 401 0 1
+
+transition 400 1 400 0 1
+
+transition 400 2 400 0 1
+
+transition 400 3 400 0 1
+
+transition 65 0 66 0 1
+
+transition 65 1 65 0 1
+
+transition 65 2 64 0 1
+
+transition 65 3 65 0 1
+
+transition 149 0 150 0 1
+
+transition 149 1 149 0 1
+
+transition 149 2 148 0 1
+
+transition 149 3 149 0 1
+
+transition 275 0 276 0 1
+
+transition 275 1 275 0 1
+
+transition 275 2 274 0 1
+
+transition 275 3 275 0 1
+
+transition 317 0 318 0 1
+
+transition 317 1 317 0 1
+
+transition 317 2 316 0 1
+
+transition 317 3 317 0 1
+
+transition 359 0 360 0 1
+
+transition 359 1 359 0 1
+
+transition 359 2 358 0 1
+
+transition 359 3 359 0 1
+
+transition 401 0 402 1000000.0 1
+
+transition 401 1 401 0 1
+
+transition 401 2 400 0 1
+
+transition 401 3 401 0 1
+
+transition 24 0 24 0 1
+
+transition 24 1 45 0 1
+
+transition 24 2 24 0 1
+
+transition 24 3 24 0 1
+
+transition 45 0 45 0 1
+
+transition 45 1 66 0 1
+
+transition 45 2 45 0 1
+
+transition 45 3 24 0 1
+
+transition 66 0 66 0 1
+
+transition 66 1 66 0 1
+
+transition 66 2 65 0 1
+
+transition 66 3 45 0 1
+
+transition 108 0 108 0 1
+
+transition 108 1 129 0 1
+
+transition 108 2 108 0 1
+
+transition 108 3 108 0 1
+
+transition 129 0 129 0 1
+
+transition 129 1 150 0 1
+
+transition 129 2 129 0 1
+
+transition 129 3 108 0 1
+
+transition 150 0 151 0 1
+
+transition 150 1 150 0 1
+
+transition 150 2 149 0 1
+
+transition 150 3 129 0 1
+
+transition 192 0 193 0 1
+
+transition 192 1 192 0 1
+
+transition 192 2 192 0 1
+
+transition 192 3 192 0 1
+
+transition 234 0 235 0 1
+
+transition 234 1 234 0 1
+
+transition 234 2 234 0 1
+
+transition 234 3 234 0 1
+
+transition 276 0 277 0 1
+
+transition 276 1 276 0 1
+
+transition 276 2 275 0 1
+
+transition 276 3 276 0 1
+
+transition 318 0 319 0 1
+
+transition 318 1 339 0 1
+
+transition 318 2 317 0 1
+
+transition 318 3 318 0 1
+
+transition 339 0 339 0 1
+
+transition 339 1 360 0 1
+
+transition 339 2 339 0 1
+
+transition 339 3 318 0 1
+
+transition 360 0 361 0 1
+
+transition 360 1 381 0 1
+
+transition 360 2 359 0 1
+
+transition 360 3 339 0 1
+
+transition 381 0 381 0 1
+
+transition 381 1 402 1000000.0 1
+
+transition 381 2 381 0 1
+
+transition 381 3 360 0 1
+
+transition 151 0 152 0 1
+
+transition 151 1 151 0 1
+
+transition 151 2 150 0 1
+
+transition 151 3 151 0 1
+
+transition 193 0 194 0 1
+
+transition 193 1 193 0 1
+
+transition 193 2 192 0 1
+
+transition 193 3 193 0 1
+
+transition 235 0 236 0 1
+
+transition 235 1 235 0 1
+
+transition 235 2 234 0 1
+
+transition 235 3 235 0 1
+
+transition 277 0 278 0 1
+
+transition 277 1 277 0 1
+
+transition 277 2 276 0 1
+
+transition 277 3 277 0 1
+
+transition 319 0 320 0 1
+
+transition 319 1 319 0 1
+
+transition 319 2 318 0 1
+
+transition 319 3 319 0 1
+
+transition 361 0 362 0 1
+
+transition 361 1 361 0 1
+
+transition 361 2 360 0 1
+
+transition 361 3 361 0 1
+
+transition 26 0 27 0 1
+
+transition 26 1 26 0 1
+
+transition 26 2 26 0 1
+
+transition 26 3 26 0 1
+
+transition 68 0 68 0 1
+
+transition 68 1 89 0 1
+
+transition 68 2 68 0 1
+
+transition 68 3 68 0 1
+
+transition 89 0 89 0 1
+
+transition 89 1 110 0 1
+
+transition 89 2 89 0 1
+
+transition 89 3 68 0 1
+
+transition 110 0 111 0 1
+
+transition 110 1 131 0 1
+
+transition 110 2 110 0 1
+
+transition 110 3 89 0 1
+
+transition 131 0 131 0 1
+
+transition 131 1 152 0 1
+
+transition 131 2 131 0 1
+
+transition 131 3 110 0 1
+
+transition 173 0 173 0 1
+
+transition 173 1 194 0 1
+
+transition 173 2 173 0 1
+
+transition 173 3 152 0 1
+
+transition 194 0 194 0 1
+
+transition 194 1 215 0 1
+
+transition 194 2 193 0 1
+
+transition 194 3 173 0 1
+
+transition 215 0 215 0 1
+
+transition 215 1 236 0 1
+
+transition 215 2 215 0 1
+
+transition 215 3 194 0 1
+
+transition 236 0 236 0 1
+
+transition 236 1 257 0 1
+
+transition 236 2 235 0 1
+
+transition 236 3 215 0 1
+
+transition 257 0 257 0 1
+
+transition 257 1 278 0 1
+
+transition 257 2 257 0 1
+
+transition 257 3 236 0 1
+
+transition 278 0 279 0 1
+
+transition 278 1 299 0 1
+
+transition 278 2 277 0 1
+
+transition 278 3 257 0 1
+
+transition 299 0 299 0 1
+
+transition 299 1 320 0 1
+
+transition 299 2 299 0 1
+
+transition 299 3 278 0 1
+
+transition 320 0 321 0 1
+
+transition 320 1 320 0 1
+
+transition 320 2 319 0 1
+
+transition 320 3 299 0 1
+
+transition 362 0 363 0 1
+
+transition 362 1 362 0 1
+
+transition 362 2 361 0 1
+
+transition 362 3 362 0 1
+
+transition 404 0 405 0 1
+
+transition 404 1 404 0 1
+
+transition 404 2 404 0 1
+
+transition 404 3 404 0 1
+
+transition 27 0 28 0 1
+
+transition 27 1 27 0 1
+
+transition 27 2 26 0 1
+
+transition 27 3 27 0 1
+
+transition 111 0 112 0 1
+
+transition 111 1 111 0 1
+
+transition 111 2 110 0 1
+
+transition 111 3 111 0 1
+
+transition 279 0 280 0 1
+
+transition 279 1 279 0 1
+
+transition 279 2 278 0 1
+
+transition 279 3 279 0 1
+
+transition 321 0 322 0 1
+
+transition 321 1 321 0 1
+
+transition 321 2 320 0 1
+
+transition 321 3 321 0 1
+
+transition 363 0 364 0 1
+
+transition 363 1 363 0 1
+
+transition 363 2 362 0 1
+
+transition 363 3 363 0 1
+
+transition 405 0 406 0 1
+
+transition 405 1 405 0 1
+
+transition 405 2 404 0 1
+
+transition 405 3 405 0 1
+
+transition 28 0 29 0 1
+
+transition 28 1 28 0 1
+
+transition 28 2 27 0 1
+
+transition 28 3 28 0 1
+
+transition 70 0 71 0 1
+
+transition 70 1 70 0 1
+
+transition 70 2 70 0 1
+
+transition 70 3 70 0 1
+
+transition 112 0 112 0 1
+
+transition 112 1 133 0 1
+
+transition 112 2 111 0 1
+
+transition 112 3 112 0 1
+
+transition 133 0 133 0 1
+
+transition 133 1 154 0 1
+
+transition 133 2 133 0 1
+
+transition 133 3 112 0 1
+
+transition 154 0 155 0 1
+
+transition 154 1 175 0 1
+
+transition 154 2 154 0 1
+
+transition 154 3 133 0 1
+
+transition 175 0 175 0 1
+
+transition 175 1 196 0 1
+
+transition 175 2 175 0 1
+
+transition 175 3 154 0 1
+
+transition 196 0 196 0 1
+
+transition 196 1 217 0 1
+
+transition 196 2 196 0 1
+
+transition 196 3 175 0 1
+
+transition 217 0 217 0 1
+
+transition 217 1 238 0 1
+
+transition 217 2 217 0 1
+
+transition 217 3 196 0 1
+
+transition 238 0 239 0 1
+
+transition 238 1 259 0 1
+
+transition 238 2 238 0 1
+
+transition 238 3 217 0 1
+
+transition 259 0 259 0 1
+
+transition 259 1 280 0 1
+
+transition 259 2 259 0 1
+
+transition 259 3 238 0 1
+
+transition 280 0 280 0 1
+
+transition 280 1 280 0 1
+
+transition 280 2 279 0 1
+
+transition 280 3 259 0 1
+
+transition 322 0 322 0 1
+
+transition 322 1 343 0 1
+
+transition 322 2 321 0 1
+
+transition 322 3 322 0 1
+
+transition 343 0 343 0 1
+
+transition 343 1 364 0 1
+
+transition 343 2 343 0 1
+
+transition 343 3 322 0 1
+
+transition 364 0 365 0 1
+
+transition 364 1 385 0 1
+
+transition 364 2 363 0 1
+
+transition 364 3 343 0 1
+
+transition 385 0 385 0 1
+
+transition 385 1 406 0 1
+
+transition 385 2 385 0 1
+
+transition 385 3 364 0 1
+
+transition 406 0 406 0 1
+
+transition 406 1 406 0 1
+
+transition 406 2 405 0 1
+
+transition 406 3 385 0 1
+
+transition 29 0 30 0 1
+
+transition 29 1 29 0 1
+
+transition 29 2 28 0 1
+
+transition 29 3 29 0 1
+
+transition 71 0 72 0 1
+
+transition 71 1 71 0 1
+
+transition 71 2 70 0 1
+
+transition 71 3 71 0 1
+
+transition 155 0 156 0 1
+
+transition 155 1 155 0 1
+
+transition 155 2 154 0 1
+
+transition 155 3 155 0 1
+
+transition 239 0 240 0 1
+
+transition 239 1 239 0 1
+
+transition 239 2 238 0 1
+
+transition 239 3 239 0 1
+
+transition 365 0 366 0 1
+
+transition 365 1 365 0 1
+
+transition 365 2 364 0 1
+
+transition 365 3 365 0 1
+
+transition 30 0 31 0 1
+
+transition 30 1 51 0 1
+
+transition 30 2 29 0 1
+
+transition 30 3 30 0 1
+
+transition 51 0 51 0 1
+
+transition 51 1 72 0 1
+
+transition 51 2 51 0 1
+
+transition 51 3 30 0 1
+
+transition 72 0 72 0 1
+
+transition 72 1 93 0 1
+
+transition 72 2 71 0 1
+
+transition 72 3 51 0 1
+
+transition 93 0 93 0 1
+
+transition 93 1 114 0 1
+
+transition 93 2 93 0 1
+
+transition 93 3 72 0 1
+
+transition 114 0 115 0 1
+
+transition 114 1 114 0 1
+
+transition 114 2 114 0 1
+
+transition 114 3 93 0 1
+
+transition 156 0 156 0 1
+
+transition 156 1 156 0 1
+
+transition 156 2 155 0 1
+
+transition 156 3 156 0 1
+
+transition 198 0 198 0 1
+
+transition 198 1 219 0 1
+
+transition 198 2 198 0 1
+
+transition 198 3 198 0 1
+
+transition 219 0 219 0 1
+
+transition 219 1 240 0 1
+
+transition 219 2 219 0 1
+
+transition 219 3 198 0 1
+
+transition 240 0 241 0 1
+
+transition 240 1 261 0 1
+
+transition 240 2 239 0 1
+
+transition 240 3 219 0 1
+
+transition 261 0 261 0 1
+
+transition 261 1 282 0 1
+
+transition 261 2 261 0 1
+
+transition 261 3 240 0 1
+
+transition 282 0 282 0 1
+
+transition 282 1 282 0 1
+
+transition 282 2 282 0 1
+
+transition 282 3 261 0 1
+
+transition 324 0 325 0 1
+
+transition 324 1 324 0 1
+
+transition 324 2 324 0 1
+
+transition 324 3 324 0 1
+
+transition 366 0 367 0 1
+
+transition 366 1 387 0 1
+
+transition 366 2 365 0 1
+
+transition 366 3 366 0 1
+
+transition 387 0 387 0 1
+
+transition 387 1 408 0 1
+
+transition 387 2 387 0 1
+
+transition 387 3 366 0 1
+
+transition 408 0 409 0 1
+
+transition 408 1 408 0 1
+
+transition 408 2 408 0 1
+
+transition 408 3 387 0 1
+
+transition 31 0 32 0 1
+
+transition 31 1 31 0 1
+
+transition 31 2 30 0 1
+
+transition 31 3 31 0 1
+
+transition 115 0 116 0 1
+
+transition 115 1 115 0 1
+
+transition 115 2 114 0 1
+
+transition 115 3 115 0 1
+
+transition 241 0 242 0 1
+
+transition 241 1 241 0 1
+
+transition 241 2 240 0 1
+
+transition 241 3 241 0 1
+
+transition 325 0 326 0 1
+
+transition 325 1 325 0 1
+
+transition 325 2 324 0 1
+
+transition 325 3 325 0 1
+
+transition 367 0 368 0 1
+
+transition 367 1 367 0 1
+
+transition 367 2 366 0 1
+
+transition 367 3 367 0 1
+
+transition 409 0 410 0 1
+
+transition 409 1 409 0 1
+
+transition 409 2 408 0 1
+
+transition 409 3 409 0 1
+
+transition 32 0 33 0 1
+
+transition 32 1 32 0 1
+
+transition 32 2 31 0 1
+
+transition 32 3 32 0 1
+
+transition 74 0 74 0 1
+
+transition 74 1 95 0 1
+
+transition 74 2 74 0 1
+
+transition 74 3 74 0 1
+
+transition 95 0 95 0 1
+
+transition 95 1 116 0 1
+
+transition 95 2 95 0 1
+
+transition 95 3 74 0 1
+
+transition 116 0 117 0 1
+
+transition 116 1 137 0 1
+
+transition 116 2 115 0 1
+
+transition 116 3 95 0 1
+
+transition 137 0 137 0 1
+
+transition 137 1 158 0 1
+
+transition 137 2 137 0 1
+
+transition 137 3 116 0 1
+
+transition 158 0 159 0 1
+
+transition 158 1 158 0 1
+
+transition 158 2 158 0 1
+
+transition 158 3 137 0 1
+
+transition 200 0 200 0 1
+
+transition 200 1 221 0 1
+
+transition 200 2 200 0 1
+
+transition 200 3 200 0 1
+
+transition 221 0 221 0 1
+
+transition 221 1 242 0 1
+
+transition 221 2 221 0 1
+
+transition 221 3 200 0 1
+
+transition 242 0 243 0 1
+
+transition 242 1 242 0 1
+
+transition 242 2 241 0 1
+
+transition 242 3 221 0 1
+
+transition 284 0 285 0 1
+
+transition 284 1 284 0 1
+
+transition 284 2 284 0 1
+
+transition 284 3 284 0 1
+
+transition 326 0 327 0 1
+
+transition 326 1 326 0 1
+
+transition 326 2 325 0 1
+
+transition 326 3 326 0 1
+
+transition 368 0 369 0 1
+
+transition 368 1 368 0 1
+
+transition 368 2 367 0 1
+
+transition 368 3 368 0 1
+
+transition 410 0 410 0 1
+
+transition 410 1 410 0 1
+
+transition 410 2 409 0 1
+
+transition 410 3 410 0 1
+
+transition 33 0 34 0 1
+
+transition 33 1 33 0 1
+
+transition 33 2 32 0 1
+
+transition 33 3 33 0 1
+
+transition 117 0 118 0 1
+
+transition 117 1 117 0 1
+
+transition 117 2 116 0 1
+
+transition 117 3 117 0 1
+
+transition 159 0 160 0 1
+
+transition 159 1 159 0 1
+
+transition 159 2 158 0 1
+
+transition 159 3 159 0 1
+
+transition 243 0 244 0 1
+
+transition 243 1 243 0 1
+
+transition 243 2 242 0 1
+
+transition 243 3 243 0 1
+
+transition 285 0 286 0 1
+
+transition 285 1 285 0 1
+
+transition 285 2 284 0 1
+
+transition 285 3 285 0 1
+
+transition 327 0 328 0 1
+
+transition 327 1 327 0 1
+
+transition 327 2 326 0 1
+
+transition 327 3 327 0 1
+
+transition 369 0 370 0 1
+
+transition 369 1 369 0 1
+
+transition 369 2 368 0 1
+
+transition 369 3 369 0 1
+
+transition 34 0 34 0 1
+
+transition 34 1 55 0 1
+
+transition 34 2 33 0 1
+
+transition 34 3 34 0 1
+
+transition 55 0 55 0 1
+
+transition 55 1 76 0 1
+
+transition 55 2 55 0 1
+
+transition 55 3 34 0 1
+
+transition 76 0 77 0 1
+
+transition 76 1 97 0 1
+
+transition 76 2 76 0 1
+
+transition 76 3 55 0 1
+
+transition 97 0 97 0 1
+
+transition 97 1 118 0 1
+
+transition 97 2 97 0 1
+
+transition 97 3 76 0 1
+
+transition 118 0 119 0 1
+
+transition 118 1 118 0 1
+
+transition 118 2 117 0 1
+
+transition 118 3 97 0 1
+
+transition 160 0 161 0 1
+
+transition 160 1 181 0 1
+
+transition 160 2 159 0 1
+
+transition 160 3 160 0 1
+
+transition 181 0 181 0 1
+
+transition 181 1 202 0 1
+
+transition 181 2 181 0 1
+
+transition 181 3 160 0 1
+
+transition 202 0 203 0 1
+
+transition 202 1 223 0 1
+
+transition 202 2 202 0 1
+
+transition 202 3 181 0 1
+
+transition 223 0 223 0 1
+
+transition 223 1 244 0 1
+
+transition 223 2 223 0 1
+
+transition 223 3 202 0 1
+
+transition 244 0 245 0 1
+
+transition 244 1 265 0 1
+
+transition 244 2 243 0 1
+
+transition 244 3 223 0 1
+
+transition 265 0 265 0 1
+
+transition 265 1 286 0 1
+
+transition 265 2 265 0 1
+
+transition 265 3 244 0 1
+
+transition 286 0 286 0 1
+
+transition 286 1 307 0 1
+
+transition 286 2 285 0 1
+
+transition 286 3 265 0 1
+
+transition 307 0 307 0 1
+
+transition 307 1 328 0 1
+
+transition 307 2 307 0 1
+
+transition 307 3 286 0 1
+
+transition 328 0 329 0 1
+
+transition 328 1 349 0 1
+
+transition 328 2 327 0 1
+
+transition 328 3 307 0 1
+
+transition 349 0 349 0 1
+
+transition 349 1 370 0 1
+
+transition 349 2 349 0 1
+
+transition 349 3 328 0 1
+
+transition 370 0 371 0 1
+
+transition 370 1 391 0 1
+
+transition 370 2 369 0 1
+
+transition 370 3 349 0 1
+
+transition 391 0 391 0 1
+
+transition 391 1 412 0 1
+
+transition 391 2 391 0 1
+
+transition 391 3 370 0 1
+
+transition 412 0 412 0 1
+
+transition 412 1 412 0 1
+
+transition 412 2 412 0 1
+
+transition 412 3 391 0 1
+
+transition 77 0 78 0 1
+
+transition 77 1 77 0 1
+
+transition 77 2 76 0 1
+
+transition 77 3 77 0 1
+
+transition 119 0 120 0 1
+
+transition 119 1 119 0 1
+
+transition 119 2 118 0 1
+
+transition 119 3 119 0 1
+
+transition 161 0 162 0 1
+
+transition 161 1 161 0 1
+
+transition 161 2 160 0 1
+
+transition 161 3 161 0 1
+
+transition 203 0 204 0 1
+
+transition 203 1 203 0 1
+
+transition 203 2 202 0 1
+
+transition 203 3 203 0 1
+
+transition 245 0 246 0 1
+
+transition 245 1 245 0 1
+
+transition 245 2 244 0 1
+
+transition 245 3 245 0 1
+
+transition 329 0 330 0 1
+
+transition 329 1 329 0 1
+
+transition 329 2 328 0 1
+
+transition 329 3 329 0 1
+
+transition 371 0 372 0 1
+
+transition 371 1 371 0 1
+
+transition 371 2 370 0 1
+
+transition 371 3 371 0 1
+
+transition 36 0 37 0 1
+
+transition 36 1 36 0 1
+
+transition 36 2 36 0 1
+
+transition 36 3 36 0 1
+
+transition 78 0 79 0 1
+
+transition 78 1 78 0 1
+
+transition 78 2 77 0 1
+
+transition 78 3 78 0 1
+
+transition 120 0 120 0 1
+
+transition 120 1 120 0 1
+
+transition 120 2 119 0 1
+
+transition 120 3 120 0 1
+
+transition 162 0 162 0 1
+
+transition 162 1 162 0 1
+
+transition 162 2 161 0 1
+
+transition 162 3 162 0 1
+
+transition 204 0 204 0 1
+
+transition 204 1 204 0 1
+
+transition 204 2 203 0 1
+
+transition 204 3 204 0 1
+
+transition 246 0 247 0 1
+
+transition 246 1 246 0 1
+
+transition 246 2 245 0 1
+
+transition 246 3 246 0 1
+
+transition 288 0 288 0 1
+
+transition 288 1 309 0 1
+
+transition 288 2 288 0 1
+
+transition 288 3 288 0 1
+
+transition 309 0 309 0 1
+
+transition 309 1 330 0 1
+
+transition 309 2 309 0 1
+
+transition 309 3 288 0 1
+
+transition 330 0 331 0 1
+
+transition 330 1 351 0 1
+
+transition 330 2 329 0 1
+
+transition 330 3 309 0 1
+
+transition 351 0 351 0 1
+
+transition 351 1 372 0 1
+
+transition 351 2 351 0 1
+
+transition 351 3 330 0 1
+
+transition 372 0 373 0 1
+
+transition 372 1 393 0 1
+
+transition 372 2 371 0 1
+
+transition 372 3 351 0 1
+
+transition 393 0 393 0 1
+
+transition 393 1 414 0 1
+
+transition 393 2 393 0 1
+
+transition 393 3 372 0 1
+
+transition 414 0 414 0 1
+
+transition 414 1 414 0 1
+
+transition 414 2 414 0 1
+
+transition 414 3 393 0 1
+
+transition 37 0 38 0 1
+
+transition 37 1 37 0 1
+
+transition 37 2 36 0 1
+
+transition 37 3 37 0 1
+
+transition 79 0 80 0 1
+
+transition 79 1 79 0 1
+
+transition 79 2 78 0 1
+
+transition 79 3 79 0 1
+
+transition 247 0 248 0 1
+
+transition 247 1 247 0 1
+
+transition 247 2 246 0 1
+
+transition 247 3 247 0 1
+
+transition 331 0 332 0 1
+
+transition 331 1 331 0 1
+
+transition 331 2 330 0 1
+
+transition 331 3 331 0 1
+
+transition 373 0 374 0 1
+
+transition 373 1 373 0 1
+
+transition 373 2 372 0 1
+
+transition 373 3 373 0 1
+
+transition 38 0 39 0 1
+
+transition 38 1 59 0 1
+
+transition 38 2 37 0 1
+
+transition 38 3 38 0 1
+
+transition 59 0 59 0 1
+
+transition 59 1 80 0 1
+
+transition 59 2 59 0 1
+
+transition 59 3 38 0 1
+
+transition 80 0 80 0 1
+
+transition 80 1 80 0 1
+
+transition 80 2 79 0 1
+
+transition 80 3 59 0 1
+
+transition 122 0 123 0 1
+
+transition 122 1 143 0 1
+
+transition 122 2 122 0 1
+
+transition 122 3 122 0 1
+
+transition 143 0 143 0 1
+
+transition 143 1 164 0 1
+
+transition 143 2 143 0 1
+
+transition 143 3 122 0 1
+
+transition 164 0 165 0 1
+
+transition 164 1 185 0 1
+
+transition 164 2 164 0 1
+
+transition 164 3 143 0 1
+
+transition 185 0 185 0 1
+
+transition 185 1 206 0 1
+
+transition 185 2 185 0 1
+
+transition 185 3 164 0 1
+
+transition 206 0 206 0 1
+
+transition 206 1 227 0 1
+
+transition 206 2 206 0 1
+
+transition 206 3 185 0 1
+
+transition 227 0 227 0 1
+
+transition 227 1 248 0 1
+
+transition 227 2 227 0 1
+
+transition 227 3 206 0 1
+
+transition 248 0 249 0 1
+
+transition 248 1 269 0 1
+
+transition 248 2 247 0 1
+
+transition 248 3 227 0 1
+
+transition 269 0 269 0 1
+
+transition 269 1 290 0 1
+
+transition 269 2 269 0 1
+
+transition 269 3 248 0 1
+
+transition 290 0 290 0 1
+
+transition 290 1 311 0 1
+
+transition 290 2 290 0 1
+
+transition 290 3 269 0 1
+
+transition 311 0 311 0 1
+
+transition 311 1 332 0 1
+
+transition 311 2 311 0 1
+
+transition 311 3 290 0 1
+
+transition 332 0 333 0 1
+
+transition 332 1 332 0 1
+
+transition 332 2 331 0 1
+
+transition 332 3 311 0 1
+
+transition 374 0 374 0 1
+
+transition 374 1 395 0 1
+
+transition 374 2 373 0 1
+
+transition 374 3 374 0 1
+
+transition 395 0 395 0 1
+
+transition 395 1 416 0 1
+
+transition 395 2 395 0 1
+
+transition 395 3 374 0 1
+
+transition 416 0 417 0 1
+
+transition 416 1 416 0 1
+
+transition 416 2 416 0 1
+
+transition 416 3 395 0 1
+
+transition 39 0 40 0 1
+
+transition 39 1 39 0 1
+
+transition 39 2 38 0 1
+
+transition 39 3 39 0 1
+
+transition 123 0 124 0 1
+
+transition 123 1 123 0 1
+
+transition 123 2 122 0 1
+
+transition 123 3 123 0 1
+
+transition 165 0 166 0 1
+
+transition 165 1 165 0 1
+
+transition 165 2 164 0 1
+
+transition 165 3 165 0 1
+
+transition 249 0 250 0 1
+
+transition 249 1 249 0 1
+
+transition 249 2 248 0 1
+
+transition 249 3 249 0 1
+
+transition 333 0 334 0 1
+
+transition 333 1 333 0 1
+
+transition 333 2 332 0 1
+
+transition 333 3 333 0 1
+
+transition 417 0 418 0 1
+
+transition 417 1 417 0 1
+
+transition 417 2 416 0 1
+
+transition 417 3 417 0 1
+
+transition 40 0 40 0 1
+
+transition 40 1 40 0 1
+
+transition 40 2 39 0 1
+
+transition 40 3 40 0 1
+
+transition 82 0 82 0 1
+
+transition 82 1 103 0 1
+
+transition 82 2 82 0 1
+
+transition 82 3 82 0 1
+
+transition 103 0 103 0 1
+
+transition 103 1 124 0 1
+
+transition 103 2 103 0 1
+
+transition 103 3 82 0 1
+
+transition 124 0 124 0 1
+
+transition 124 1 145 0 1
+
+transition 124 2 123 0 1
+
+transition 124 3 103 0 1
+
+transition 145 0 145 0 1
+
+transition 145 1 166 0 1
+
+transition 145 2 145 0 1
+
+transition 145 3 124 0 1
+
+transition 166 0 166 0 1
+
+transition 166 1 166 0 1
+
+transition 166 2 165 0 1
+
+transition 166 3 145 0 1
+
+transition 208 0 208 0 1
+
+transition 208 1 229 0 1
+
+transition 208 2 208 0 1
+
+transition 208 3 208 0 1
+
+transition 229 0 229 0 1
+
+transition 229 1 250 0 1
+
+transition 229 2 229 0 1
+
+transition 229 3 208 0 1
+
+transition 250 0 250 0 1
+
+transition 250 1 250 0 1
+
+transition 250 2 249 0 1
+
+transition 250 3 229 0 1
+
+transition 292 0 292 0 1
+
+transition 292 1 313 0 1
+
+transition 292 2 292 0 1
+
+transition 292 3 292 0 1
+
+transition 313 0 313 0 1
+
+transition 313 1 334 0 1
+
+transition 313 2 313 0 1
+
+transition 313 3 292 0 1
+
+transition 334 0 334 0 1
+
+transition 334 1 355 0 1
+
+transition 334 2 333 0 1
+
+transition 334 3 313 0 1
+
+transition 355 0 355 0 1
+
+transition 355 1 376 0 1
+
+transition 355 2 355 0 1
+
+transition 355 3 334 0 1
+
+transition 376 0 376 0 1
+
+transition 376 1 397 0 1
+
+transition 376 2 376 0 1
+
+transition 376 3 355 0 1
+
+transition 397 0 397 0 1
+
+transition 397 1 418 0 1
+
+transition 397 2 397 0 1
+
+transition 397 3 376 0 1
+
+transition 418 0 418 0 1
+
+transition 418 1 418 0 1
+
+transition 418 2 417 0 1
+
+transition 418 3 397 0 1
+
+mdptype episodic
+
+discount 0.9
+
